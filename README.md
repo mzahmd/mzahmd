@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am currently studying Applied Computer Science in Germany.
 
-## ✨ Fun Facts
+## ⚡ Fun Facts
 
 - Dragonball is my favourite anime
